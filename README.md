@@ -54,7 +54,7 @@ A full-stack platform for verifying news claims and presenting evidence-backed r
 
 ---
 
-### [KisanMitra — Multilingual Agricultural Assistant](https://github.com/992manav/kisanMitra)
+### [KisanMitra — Multilingual Agricultural Assistant](https://github.com/pratyush91205/Kisanmitraa)
 
 A multilingual agricultural assistance platform designed around voice, text and image-based interactions.
 
@@ -121,7 +121,7 @@ Main areas I practice:
 ## 🤝 Let's Connect
 
 <p align="left">
-<a href="https://www.linkedin.com/" target="_blank">
+<a href="https://www.linkedin.com/in/pratyush-agrawal-05bb52376/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
 </a>
 <a href="https://leetcode.com/u/pratyush_912/" target="_blank">
